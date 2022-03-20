@@ -1,4 +1,4 @@
-.load-wrapp {
+.load-wrapper {
     position: fixed;
     top: 0;
     left: 0;
@@ -8,14 +8,14 @@
     overflow: hidden;
 }
 
-.load-wrapp span {
+.load-wrapper span {
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%,50%);
 }
 
-.ring-1 {
+.circle {
     position: fixed;
     top: 50%;
     left: 50%;
