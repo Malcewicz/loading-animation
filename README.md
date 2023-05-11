@@ -1,6 +1,6 @@
 # Loading animation
  
-I've created a simple, light CSS loading animation.
+I've created a simple and light CSS loading animation using only vanilla HTML and CSS.
 
 Feel free to modify it and use it for whatever you want :)
 
